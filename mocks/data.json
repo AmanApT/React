@@ -1,0 +1,66 @@
+{
+  "info": {
+    "id": "571586",
+    "name": "Prem Dhaba",
+    "cloudinaryImageId": "xk1thvk3rb4y99rliiea",
+    "locality": "Karol Bagh",
+    "areaName": "Karol Bagh",
+    "costForTwo": "₹300 for two",
+    "cuisines": ["North Indian"],
+    "avgRating": 4.3,
+    "parentId": "160936",
+    "avgRatingString": "4.3",
+    "totalRatingsString": "1K+",
+    "promoted": true,
+    "adTrackingId": "cid=11561908~p=1~eid=0000018e-0ef4-e031-03fc-2b3f00a20153~srvts=1709647913009~45995",
+    "sla": {
+      "deliveryTime": 29,
+      "lastMileTravel": 4.6,
+      "serviceability": "SERVICEABLE",
+      "slaString": "29 mins",
+      "lastMileTravelString": "4.6 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2024-03-05 23:59:00",
+      "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+      "entityBadges": {
+        "textBased": {},
+        "imageBased": {},
+        "textExtendedBadges": {}
+      }
+    },
+    "aggregatedDiscountInfoV3": {
+      "header": "20% OFF",
+      "subHeader": "UPTO ₹50"
+    },
+    "differentiatedUi": {
+      "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+      "differentiatedUiMediaDetails": {
+        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+        "lottie": {},
+        "video": {}
+      }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {},
+    "externalRatings": {
+      "aggregatedRating": {
+        "rating": "--"
+      }
+    },
+    "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+  },
+  "analytics": {},
+  "cta": {
+    "link": "swiggy://menu?restaurant_id=571586",
+    "text": "RESTAURANT_MENU",
+    "type": "DEEPLINK"
+  }
+}
